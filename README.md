@@ -14,5 +14,5 @@ I'm an **Automation Engineer** with a passion for testing and quality.
 
 ### 📫 Contact Me
 
-- [LinkedIn]([https://www.linkedin.com/in/ardra-ashok/])  
+- [LinkedIn](https://www.linkedin.com/in/ardra-ashok/)  
 - Email: piyaasok@gmail.com
